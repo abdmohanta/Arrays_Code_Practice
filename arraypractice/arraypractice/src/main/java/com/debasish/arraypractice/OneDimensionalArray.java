@@ -1,0 +1,22 @@
+package com.debasish.arraypractice;
+
+public class OneDimensionalArray {
+
+    public static void main(String[] args) {
+
+        // ======================================
+        // PROBLEM 1: PRINT ARRAY
+        // ======================================
+
+        // Step 1: create array
+        int[] arr = {10, 20, 30, 40, 50};
+
+        // Step 2: loop through array
+        System.out.println("Array Elements:");
+
+        for (int i = 0; i < arr.length; i++) {
+            System.out.print(arr[i] + " ");
+        }
+
+    }
+}
