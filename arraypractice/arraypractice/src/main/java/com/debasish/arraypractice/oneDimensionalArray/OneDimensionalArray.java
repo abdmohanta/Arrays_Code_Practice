@@ -1,4 +1,4 @@
-package com.debasish.arraypractice;
+package com.debasish.arraypractice.oneDimensionalArray;
 
 public class OneDimensionalArray {
 
