@@ -5,10 +5,7 @@ import java.util.Arrays;
 public class OneDimensionalArray5 {
 
     public static void main(String[] args) {
-
-        // ======================================
         // PROBLEM 6: REVERSE ARRAY
-        // ======================================
         int[] arr = {1, 2, 3, 4, 5};
         for (int i = 0; i < arr.length / 2; i++) {
 
