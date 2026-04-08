@@ -3,10 +3,7 @@ package com.debasish.arraypractice.oneDimensionalArray;
 public class OneDimensionalArray3 {
 
     public static void main(String[] args) {
-
-        // ======================================
         // PROBLEM 5: SEARCH ELEMENT
-        // ======================================
         int[] arr = {10, 20, 30, 40, 50};
         int key = 30;
         boolean found = false;
