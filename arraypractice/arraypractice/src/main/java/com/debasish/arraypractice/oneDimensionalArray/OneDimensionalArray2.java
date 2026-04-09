@@ -1,9 +1,9 @@
 package com.debasish.arraypractice.oneDimensionalArray;
 
 public class OneDimensionalArray2 {
-
+    // PROBLEM 3: FIND MAX ELEMENT
     public static void main(String[] args) {
-        // PROBLEM 3: FIND MAX ELEMENT
+
         int[] arr = {10, 25, 5, 40, 15};
         int max = arr[0];
         for (int i = 1; i < arr.length; i++) {
