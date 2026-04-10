@@ -1,5 +1,4 @@
 package com.debasish.arraypractice.oneDimensionalArray;
-
 import java.util.Arrays;
 public class OneDimensionalArray13 {
     public static void main(String[] args) {
