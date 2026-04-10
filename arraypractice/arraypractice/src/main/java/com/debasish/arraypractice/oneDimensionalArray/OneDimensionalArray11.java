@@ -1,5 +1,4 @@
 package com.debasish.arraypractice.oneDimensionalArray;
-import java.util.Arrays;
 public class OneDimensionalArray11 {
     public static void main(String[] args) {
         // PROBLEM 12: REMOVE DUPLICATES
@@ -14,7 +13,6 @@ public class OneDimensionalArray11 {
         }
         temp[j] = arr[arr.length - 1];
         System.out.print("Unique Elements: ");
-
         for (int i = 0; i <= j; i++) {
             System.out.print(temp[i] + " ");
         }
