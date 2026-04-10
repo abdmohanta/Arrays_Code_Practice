@@ -16,6 +16,5 @@ public class OneDimensionalArray3 {
         } else {
             System.out.println("Element not found");
         }
-
     }
 }
