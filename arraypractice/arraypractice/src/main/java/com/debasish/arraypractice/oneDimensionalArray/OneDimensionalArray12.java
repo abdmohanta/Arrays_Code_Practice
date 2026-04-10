@@ -1,5 +1,4 @@
 package com.debasish.arraypractice.oneDimensionalArray;
-
 public class OneDimensionalArray12 {
     public static void main(String[] args) {
         // PROBLEM 13: FREQUENCY OF ELEMENTS
@@ -18,6 +17,5 @@ public class OneDimensionalArray12 {
             }
             System.out.println(arr[i] + " occurs " + count + " times");
         }
-
     }
 }
