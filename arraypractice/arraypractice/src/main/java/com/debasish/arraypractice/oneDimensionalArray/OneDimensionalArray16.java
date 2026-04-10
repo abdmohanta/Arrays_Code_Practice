@@ -1,12 +1,9 @@
 package com.debasish.arraypractice.oneDimensionalArray;
 import java.util.Arrays;
-
+// PROBLEM 17: MOVE ZEROS TO END OF ARRAY
 public class OneDimensionalArray16 {
     public static void main(String[] args) {
 
-        // ======================================
-        // PROBLEM 17: MOVE ZEROS TO END
-        // ======================================
         int[] arr = {0, 1, 0, 3, 12};
         int j = 0;
         for (int i = 0; i < arr.length; i++) {
