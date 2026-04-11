@@ -1,0 +1,15 @@
+package com.debasish.arraypractice.oneDimensionalArray;
+public class OneDimensionalArray17 {
+    public static void main(String[] args) {
+        // PROBLEM 18: FIND MISSING NUMBER
+        int[] arr = {1, 2, 4, 5};
+        int n = 5;
+        int expectedSum = n * (n + 1) / 2;
+        int actualSum = 0;
+        for (int i = 0; i < arr.length; i++) {
+            actualSum = actualSum + arr[i];
+        }
+        int missing = expectedSum - actualSum;
+        System.out.println("Missing Number: " + missing);
+    }
+}
