@@ -13,7 +13,7 @@ public class OneDimensionalArray38 {
             currentMin = Math.min(arr[i],
                     Math.min(temp * arr[i], currentMin * arr[i]));
             if (currentMax > maxProduct) {
-                maxProduct = currentMax;
+                maxPr    oduct = currentMax;
             }
         }
         System.out.println("Maximum Product: " + maxProduct);
