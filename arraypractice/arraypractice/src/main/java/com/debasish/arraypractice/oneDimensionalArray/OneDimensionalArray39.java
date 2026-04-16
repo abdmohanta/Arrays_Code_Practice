@@ -1,14 +1,7 @@
 package com.debasish.arraypractice.oneDimensionalArray;
-
 public class OneDimensionalArray39 {
-
     public static void main(String[] args) {
-
-        // ======================================
-        // PROBLEM 40: MIN SIZE SUBARRAY SUM
-        // ======================================
-
-        // Step 1: create array
+        // PROBLEM 40: MIN SIZE SUBARRAY SUm
         int[] arr = {2, 3, 1, 2, 4, 3};
 
         int target = 7;
