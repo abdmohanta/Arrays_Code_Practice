@@ -3,12 +3,7 @@ package com.debasish.arraypractice.oneDimensionalArray;
 public class OneDimensionalArray41 {
 
     public static void main(String[] args) {
-
-        // ======================================
         // PROBLEM 42: PRINT ALL SUBARRAYS
-        // ======================================
-
-        // Step 1: create array
         int[] arr = {1, 2, 3};
 
         int n = arr.length;
