@@ -1,11 +1,6 @@
-
 package com.debasish.arraypractice.oneDimensionalArray;
-
 public class OneDimensionalArray42 {
-
     public static void main(String[] args) {
-
-        // ======================================
         // PROBLEM 43: COUNT ALL SUBARRAYS
         // ======================================
 
