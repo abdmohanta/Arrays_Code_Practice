@@ -4,7 +4,6 @@ public class OneDimensionalArray43 {
 
     public static void main(String[] args) {
 
-        // ======================================
         // PROBLEM 44: MAX SUBARRAY SUM (BRUTE)
         // ======================================
 
