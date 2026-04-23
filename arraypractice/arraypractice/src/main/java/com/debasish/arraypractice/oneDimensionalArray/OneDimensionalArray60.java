@@ -1,9 +1,6 @@
 package com.debasish.arraypractice.oneDimensionalArray;
-
 import java.util.Arrays;
-
 public class OneDimensionalArray60 {
-
     public static void main(String[] args) {
 
         // ======================================
