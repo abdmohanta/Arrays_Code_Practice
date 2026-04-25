@@ -20,10 +20,8 @@ public class OneDimensionalArray63 {
                     element = entry.getKey();
                 }
             }
-
             System.out.println(element);
             map.remove(element);
         }
-
     }
 }
