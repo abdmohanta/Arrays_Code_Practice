@@ -1,9 +1,6 @@
 package com.debasish.arraypractice.oneDimensionalArray;
-
 import java.util.Stack;
-
 public class OneDimensionalArray84 {
-
     public static void main(String[] args) {
         // PROBLEM 85: ASTEROID COLLISION
         int[] asteroids = {5, 10, -5};
@@ -32,8 +29,6 @@ public class OneDimensionalArray84 {
                 stack.push(current);
             }
         }
-
-        // Step 3: print remaining asteroids
         System.out.println("Remaining Asteroids:");
 
         for (int val : stack) {
