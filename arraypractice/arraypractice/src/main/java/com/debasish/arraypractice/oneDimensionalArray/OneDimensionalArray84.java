@@ -5,8 +5,6 @@ import java.util.Stack;
 public class OneDimensionalArray84 {
 
     public static void main(String[] args) {
-
-        // ======================================
         // PROBLEM 85: ASTEROID COLLISION
         // ======================================
 
