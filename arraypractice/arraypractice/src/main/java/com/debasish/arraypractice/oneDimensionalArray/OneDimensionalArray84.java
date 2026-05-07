@@ -20,20 +20,16 @@ public class OneDimensionalArray84 {
                 else if (Math.abs(current) == top) {
                     stack.pop();
                 }
-
                 exploded = true;
                 break;
             }
-
             if (!exploded) {
                 stack.push(current);
             }
         }
         System.out.println("Remaining Asteroids:");
-
         for (int val : stack) {
             System.out.print(val + " ");
         }
-
     }
 }
