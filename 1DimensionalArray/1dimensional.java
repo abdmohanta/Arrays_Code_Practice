@@ -10,13 +10,13 @@ public class ArrayExampleApplication {
 
         SpringApplication.run(ArrayExampleApplication.class, args);
 
-        // Step 1: Declare and initialize array
+        
         int[] arr = {10, 20, 30, 40, 50};
 
-        // Step 2: Loop through array
+        
         for (int i = 0; i < arr.length; i++) {
 
-            // Step 3: Print each element
+            
             System.out.println("Element at index " + i + " = " + arr[i]);
         }
     }
