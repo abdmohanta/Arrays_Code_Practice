@@ -19,16 +19,13 @@ public class OneDimensionalArray85 {
                 currentNumber = 0;
                 currentString = "";
             }
-
             else if (ch == ']') {
                 int repeat = countStack.pop();
                 String previous = stringStack.pop();
                 String temp = "";
-
                 for (int j = 0; j < repeat; j++) {
                     temp = temp + currentString;
                 }
-
                 currentString = previous + temp;
             }
             else {
